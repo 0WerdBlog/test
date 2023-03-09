@@ -1,0 +1,27 @@
+@charset "UTF-8";
+body {
+    background-color: rgb(255, 140, 0);
+}
+
+.a1 {
+    color: white;
+    background-color: orange;
+    text-align: center;
+    text-decoration: none;
+    border: 2px solid orange;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+.box {
+    background-color: white;
+    width: 250px;
+    height: 300px;
+    padding: 20px;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+}
+
